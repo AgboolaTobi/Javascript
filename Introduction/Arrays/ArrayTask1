@@ -1,0 +1,24 @@
+let arr = new Array()
+
+let newArray = [];
+
+
+let myArray = [19,2,3,4,5]
+myArray.push(45)
+
+
+
+console.log(myArray)
+console.log(myArray.pop())
+
+console.log(myArray.shift())
+
+// console.log(myArray.sort((2, 5) , 2 - 5))
+
+
+let first = [1,2,3,4]
+let second = [5,6,7,8]
+
+console.log(first.concat(second))
+
+console.log(first.join(second))
