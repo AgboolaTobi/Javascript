@@ -1,5 +1,19 @@
 //#1
+const objTobi = {
+    firstName:"Tobi",
+    lastName:"Agboola",
+    Cohort:18,
+    sex:"male",
+    bestColour:"Blue",
+    location:"Sabo,Yaba,Lagos"
+}
 
+    
+for(key in objTobi){
+    const result = objTobi[key];
+    console.log(result)
+
+}
 
 
 // #2
