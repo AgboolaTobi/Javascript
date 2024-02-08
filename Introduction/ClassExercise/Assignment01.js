@@ -43,3 +43,5 @@ console.log(evenNumber(question))
 console.log(square(question))
 
 console.log(usingForEach(question))
+
+//SEEN
